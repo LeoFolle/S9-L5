@@ -1,0 +1,24 @@
+
+.telefono {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 250px;
+    background-color: gray;
+    border-radius: 2rem;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.bottone {
+    margin: 0.2rem 0px;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 1.3rem;
+    text-align: center;
+}
+h2 {
+    font-size: 1rem;
+}
